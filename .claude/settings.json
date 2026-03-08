@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "bash": {
+      "pip": "allowed",
+      "pip3": "allowed",
+      "uvicorn": "allowed",
+      "alembic": "allowed",
+      "bun": "allowed",
+      "npx": "allowed",
+      "node": "allowed",
+      "npm": "allowed",
+      "python": "allowed",
+      "python3": "allowed",
+      "git": "allowed",
+      "docker": "allowed",
+      "docker-compose": "allowed",
+      "mkdir": "allowed",
+      "ls": "allowed",
+      "cp": "allowed",
+      "mv": "allowed",
+      "rm": "allowed",
+      "chmod": "allowed",
+      "touch": "allowed",
+      "curl": "allowed",
+      "which": "allowed",
+      "cat": "allowed",
+      "sqlite3": "allowed",
+      "pytest": "allowed",
+      "open": "allowed",
+      "source": "allowed",
+      "kill": "allowed",
+      "lsof": "allowed",
+      "sleep": "allowed",
+      "tail": "allowed",
+      "head": "allowed",
+      "grep": "allowed",
+      "wc": "allowed",
+      "cd": "allowed"
+    }
+  }
+}
